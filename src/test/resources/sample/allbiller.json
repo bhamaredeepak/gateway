@@ -1,0 +1,22 @@
+[
+  {
+    "id": 101,
+    "balance": 200,
+    "name": "icici"
+  },
+  {
+    "id": 102,
+    "balance": 300,
+    "name": "axis"
+  },
+  {
+    "id": 103,
+    "balance": 400,
+    "name": "hdfc"
+  },
+  {
+    "id": 104,
+    "balance": 500,
+    "name": "pnb"
+  }
+]
